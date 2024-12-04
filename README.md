@@ -1,24 +1,63 @@
-# 💫 About Me:
-Second-Year Software Engineering Student | Interested in Data Analysis & AI<br><br>I’m a second-year Software Engineering student currently focused on learning data analysis. I’m building skills in tools like Python, SQL, and Excel.<br><br>I’m also excited to learn more about artificial intelligence and how it can be used in real-world applications. I’m always eager to learn new things and am looking forward to gaining experience through internships and projects.
+# 🎓 Moustafa Mohamed  
+
+**Undergraduate Software Engineering Student | Data Analysis & AI Enthusiast | Python, SQL, Machine Learning**  
+
+---
+
+## 📖 About Me  
+
+I’m a second-year Software Engineering student passionate about **Data Analysis** and **Artificial Intelligence**.  
+
+- 🔧 Skilled in Python, SQL, and data visualization tools like Pandas, Seaborn, and Matplotlib.  
+- 📊 Strong experience in data analysis and working with tools like Excel.  
+- 📜 Continuously building my skill set with hands-on projects and certifications.  
+
+My ultimate goal is to solve real-world challenges by leveraging data and AI technologies. I'm actively seeking **internships** and **collaborations** in data-driven fields to further my knowledge and contribute to impactful projects.  
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moustafa%20Mohamed-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moustafa-mohamed-047736296/)
+
+---
+
+## 🛠️ Skills  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Seaborn-2D72B8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OOP-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moustafa-mohamed-047736296) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MoustafaMohamed01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MoustafaMohamed01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaMohamed01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MoustafaMohamed01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MoustafaMohamed01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🤝 Let's Collaborate!  
+
+Feel free to connect with me to discuss:  
+- **Internship Opportunities**  
+- **AI and Data Analysis Projects**  
+- **Open Source Contributions**  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MoustafaMohamed01&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
