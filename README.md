@@ -22,7 +22,7 @@ My ultimate goal is to solve real-world challenges by leveraging data and AI tec
 
 ---
 
-## 🛠️ Skills  
+<!-- ## 🛠️ Skills  -->
 
 ## 🚀 Skills
 
