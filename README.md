@@ -1,24 +1,30 @@
-# 🎓 Moustafa Mohamed  
+<h1 align="center">Moustafa Mohamed</h1>
 
-**Undergraduate Software Engineering Student | Data Analysis & AI Enthusiast | Python, SQL, Machine Learning**  
+<p align="center">
+  <b>Undergraduate Software Engineering Student | Data Analysis & AI Enthusiast</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/moustafa-mohamed-047736296/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/moustafamohamed01">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://github.com/MoustafaMohamed01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📖 About Me  
+## 📌 About Me  
 
-I’m a second-year Software Engineering student passionate about **Data Analysis** and **Artificial Intelligence**.  
+I am a **second-year Software Engineering student** passionate about **Data Analysis, Machine Learning, and AI**. My focus is on leveraging data to solve **real-world problems** through **analytical thinking and AI-driven solutions**.  
 
-- 🔧 Skilled in Python, SQL, and data visualization tools like Pandas, Seaborn, and Matplotlib.  
-- 📊 Strong experience in data analysis and working with tools like Excel.  
-- 📜 Continuously building my skill set with hands-on projects and certifications.  
-
-My ultimate goal is to solve real-world challenges by leveraging data and AI technologies. I'm actively seeking **internships** and **collaborations** in data-driven fields to further my knowledge and contribute to impactful projects.  
-
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moustafa%20Mohamed-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moustafa-mohamed-047736296/)
+🔹 **Skills**: Python, SQL, Data Visualization (Pandas, Seaborn, Matplotlib), Machine Learning  
+🔹 **Experience**: Hands-on projects in **data analysis & AI**, continuous learning through **certifications & research**  
+🔹 **Seeking**: **Internship opportunities & collaborations** in data-driven fields  
 
 ---
 
