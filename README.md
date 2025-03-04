@@ -58,6 +58,9 @@ I am a **second-year Software Engineering student** passionate about **Data Anal
   <img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine_Learning-ff9900?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ANN-ff5722?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CNN-ff5722?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Technologies  
@@ -71,6 +74,7 @@ I am a **second-year Software Engineering student** passionate about **Data Anal
 <p align="center">
   <img src="https://img.shields.io/badge/-OOP-00599C?style=for-the-badge" />
 </p>
+
 
 
 
