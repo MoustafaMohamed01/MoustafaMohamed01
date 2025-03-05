@@ -27,10 +27,11 @@
 
 ## 📌 About Me  
 
-I am a **second-year Software Engineering student** passionate about **Data Analysis, Machine Learning, and AI**. My focus is on leveraging data to solve **real-world problems** through **analytical thinking and AI-driven solutions**.  
+I am a **second-year Software Engineering student** with a strong passion for **Data Analysis, Machine Learning, and AI**. 
+I focus on using **data-driven insights** and **AI technologies** to solve **real-world challenges** and create innovative solutions. 
 
-🔹 **Skills**: Python, SQL, Data Visualization (Pandas, Seaborn, Matplotlib), Machine Learning  
-🔹 **Experience**: Hands-on projects in **data analysis & AI**, continuous learning through **certifications & research**  
+🔹 **Skills**: Python, SQL, Data Visualization (Pandas, Seaborn, Matplotlib), Machine Learning (Scikit-learn, TensorFlow), Deep Learning (ANN, CNN, RNN)
+🔹 **Experience**: Practical experience in **data analysis** and **AI** through hands-on projects, ongoing learning through **certifications**, **Kaggle competitions**
 🔹 **Seeking**: **Internship opportunities & collaborations** in data-driven fields  
 
 ---
