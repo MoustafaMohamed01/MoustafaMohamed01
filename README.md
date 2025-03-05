@@ -6,16 +6,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moustafa-mohamed-047736296/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=cyan" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.kaggle.com/moustafamohamed01">
-    <img src="https://img.shields.io/badge/-Kaggle-0A192F?style=for-the-badge&logo=kaggle&logoColor=cyan" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/MoustafaMohamed01">
-    <img src="https://img.shields.io/badge/-GitHub-0A192F?style=for-the-badge&logo=github&logoColor=cyan" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://moustafamohamed.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-0A192F?style=for-the-badge&logo=google-chrome&logoColor=cyan" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -34,53 +37,53 @@ I am a **second-year Software Engineering student** passionate about **Data Anal
 
 <!-- ## 🛠️ Skills  -->
 
-## 🚀 Tech Stack & Skills  
+## 🚀 Skills
 
-### 🖥️ Programming Languages  
+### 🖥️ **Programming Languages**
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-0A192F?style=for-the-badge&logo=c&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-C++-0A192F?style=for-the-badge&logo=c%2B%2B&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Python-0A192F?style=for-the-badge&logo=python&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-SQL-0A192F?style=for-the-badge&logo=mysql&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=cyan" />
-</p>  
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### 🌐 Web Development  
+### 🌐 **Web Development**
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-0A192F?style=for-the-badge&logo=html5&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-CSS-0A192F?style=for-the-badge&logo=css3&logoColor=cyan" />
-</p>  
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-### 📊 Data Science & Machine Learning  
+### 📊 **Data Science & Machine Learning**
 <p align="center">
-  <img src="https://img.shields.io/badge/-NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Matplotlib-0A192F?style=for-the-badge&logo=matplotlib&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Seaborn-0A192F?style=for-the-badge&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Scikit_learn-0A192F?style=for-the-badge&logo=scikit-learn&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Machine_Learning-0A192F?style=for-the-badge&logo=python&logoColor=cyan" />
-</p>  
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Seaborn-2D72B8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine_Learning-ff9900?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### 🤖 Deep Learning  
+### 🤖 **Deep Learning**
 <p align="center">
-  <img src="https://img.shields.io/badge/-Deep_Learning-0A192F?style=for-the-badge&logo=python&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Artificial_Neural_Networks_(ANN)-0A192F?style=for-the-badge&logo=python&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Convolutional_Neural_Networks_(CNN)-0A192F?style=for-the-badge&logo=python&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Recurrent_Neural_Networks_(RNN)-0A192F?style=for-the-badge&logo=python&logoColor=cyan" />
-</p>  
+  <img src="https://img.shields.io/badge/-Deep_Learning-ff6600?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Artificial_Neural_Networks_(ANN)-ff5722?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Convolutional_Neural_Networks_(CNN)-ff5722?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Recurrent_Neural_Networks_(RNN)-ff5722?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### 🎯 Core Concepts  
+### 🎯 **Core Concepts**
 <p align="center">
-  <img src="https://img.shields.io/badge/-Object_Oriented_Programming_(OOP)-0A192F?style=for-the-badge&logo=python&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Data_Preprocessing-0A192F?style=for-the-badge&logo=python&logoColor=cyan" />
-</p>  
+  <img src="https://img.shields.io/badge/-Object_Oriented_Programming_(OOP)-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Data_Preprocessing-0073CF?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### 🔧 Tools & Technologies  
+### 🔧 **Tools & Technologies**
 <p align="center">
-  <img src="https://img.shields.io/badge/-Git-0A192F?style=for-the-badge&logo=git&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Jupyter-0A192F?style=for-the-badge&logo=jupyter&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/-Power_BI-0A192F?style=for-the-badge&logo=powerbi&logoColor=cyan" />
-</p>  
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p> 
 
 
 
