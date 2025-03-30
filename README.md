@@ -22,25 +22,21 @@
   </a>
 </p>
 
-
 ---
 
-## 📌 About Me  
+## 💼 About Me  
 
-I am a **second-year Software Engineering student** with a strong passion for **Data Analysis, Machine Learning, and AI**. 
-I focus on using **data-driven insights** and **AI technologies** to solve **real-world challenges** and create innovative solutions. 
+I am a **second-year Software Engineering student** with a passion for **AI, Machine Learning, and Data Science**. I aim to create **innovative solutions** through the use of **data-driven insights** and **cutting-edge AI technologies**.
 
 🔹 **Skills**: Python, SQL, Data Visualization (Pandas, Seaborn, Matplotlib), Machine Learning (Scikit-learn, TensorFlow), Deep Learning (ANN, CNN, RNN)
 
-🔹 **Experience**: Practical experience in **data analysis** and **AI** through hands-on projects, ongoing learning through **certifications**, **Kaggle competitions**
+🔹 **Experience**: Hands-on experience in **AI model development**, **data analysis**, and **problem-solving** through personal projects, **Kaggle competitions**, and certifications.
 
-🔹 **Seeking**: **Internship opportunities & collaborations** in data-driven fields  
+🔹 **Looking For**: Internship opportunities, collaborations, and open-source contributions in the fields of **AI** and **data-driven solutions**.
 
 ---
 
-<!-- ## 🛠️ Skills  -->
-
-## 🚀 Skills
+## 🚀 Skills & Expertise
 
 ### 🖥️ **Programming Languages**
 <p align="center">
@@ -50,7 +46,6 @@ I focus on using **data-driven insights** and **AI technologies** to solve **rea
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
-
 
 ### 📊 **Data Science & Machine Learning**
 <p align="center">
@@ -86,9 +81,9 @@ I focus on using **data-driven insights** and **AI technologies** to solve **rea
   <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
+---
 
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MoustafaMohamed01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MoustafaMohamed01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaMohamed01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
