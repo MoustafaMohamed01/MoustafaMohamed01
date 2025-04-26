@@ -100,10 +100,5 @@ Feel free to reach out if you are interested in:
 - **AI and Data Science Projects**  
 - **Open Source Collaboration**
 
----
+Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/moustafamohamed01/).
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=MoustafaMohamed01&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=MoustafaMohamed01&icon=0&color=0" />
-  </a>
-</p>
