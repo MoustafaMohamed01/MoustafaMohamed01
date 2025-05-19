@@ -1,7 +1,7 @@
 <h1 align="center">Moustafa Mohamed</h1>
 
 <p align="center">
-  <b>Undergraduate Software Engineering Student | AI & Data Science Enthusiast</b>
+  <b>Aspiring AI Engineer | Specialized in Machine Learning, Deep Learning & LLM Engineering</b>
 </p>
 
 <p align="center">
@@ -24,81 +24,87 @@
 
 ---
 
-## 💼 About Me  
+## About Me
 
-I am a **second-year Software Engineering student** with a strong passion for **Artificial Intelligence, Machine Learning**, and **Data Science**. I am driven to develop **innovative, data-driven solutions** that leverage **advanced AI technologies** to solve real-world problems.
+I'm a **second-year Software Engineering student** with a growing specialization in **AI development**, particularly in **machine learning, deep learning, and LLM (Large Language Model) engineering**. I’m passionate about building intelligent systems that solve real-world problems and empower users through smart, automated solutions.
 
-🔹 **Technical Skills**: Python, SQL, Data Visualization (Pandas, Seaborn, Matplotlib), Machine Learning (Scikit-learn, TensorFlow), Deep Learning (ANN, CNN, RNN)
+I’ve worked on projects ranging from **spam classification** to **AI-powered resume analysis** and **automated web summarizers**. I thrive in roles that challenge my problem-solving and engineering mindset.
 
-🔹 **Practical Experience**: Engaged in **AI model development**, **data analysis**, and **problem-solving** through academic projects, **Kaggle competitions**, and professional certifications.
+Certified by IBM, DeepLearning.AI, Udemy, and Google Cloud in **Python, Machine Learning, Deep Learning, and Generative AI**.
 
-🔹 **Career Interests**: Open to **internship opportunities**, **collaborative projects**, and **open-source contributions** focused on **AI research** and **data-driven innovation**.
+📌 I’m actively seeking **AI internships**, **collaborative projects**, and **open-source contributions** in the fields of **AI product development, applied ML, and LLMs**.
 
 ---
 
-## 🚀 Skills & Expertise
+## Skills & Technologies
 
-### 🖥️ Programming Languages
+### AI, ML & Deep Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-5e60ce?style=flat-square&logo=OpenAI&logoColor=white" />
 </p>
 
-### 📊 Data Science & Machine Learning
+### Data Science & Analysis
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/Seaborn-2D72B8?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-ff9900?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-### 🤖 Deep Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/ANN-FF5722?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CNN-FF5722?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/RNN-FF5722?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-</p>
-
-### 🎯 Core Concepts
-<p align="center">
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming_(OOP)-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/Data_Preprocessing-0073CF?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-### 🔧 Tools & Technologies
+### Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+### Tools & Frameworks
+<p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## Featured Projects
+
+- **Web Summarizer AI** – A web scraping & AI-based summarization tool powered by LLaMA 3.2.
+- **SMS Spam Classifier** – ML model that classifies text messages as spam or ham with visual performance reporting.
+
+> More on my [Portfolio Website](https://moustafamohamed.netlify.app/) or [GitHub Projects](https://github.com/MoustafaMohamed01?tab=repositories)
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoustafaMohamed01&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MoustafaMohamed01&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoustafaMohamed01&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaMohamed01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaMohamed01&theme=dark&layout=compact&hide_border=false" />
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+## Let’s Connect!
 
-I'm always open to new opportunities and collaborations!  
-Feel free to reach out if you are interested in:  
-- **Internships**  
-- **AI and Data Science Projects**  
-- **Open Source Collaboration**
+I'm excited to collaborate with fellow developers, data scientists, and AI researchers.  
+Reach out if you're interested in:
+- AI & ML Projects
+- Internship Opportunities
+- Open Source Contributions
+- Hackathons or Research Collaborations
 
-Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/moustafamohamed01/).
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/moustafamohamed01/)
 
+---
