@@ -87,9 +87,6 @@ Currently seeking **AI-focused internships**, **collaborative projects**, and **
 ### 🔹 [LLM Tools Suite](https://github.com/MoustafaMohamed01/LLM-tools-suite)
 A collection of Streamlit tools using Gemini API for AI-powered blogging, document summarization (FAISS + LangChain), SQL query generation, and CSV data analysis.
 
-### 🔹 [Web Summarizer AI](https://github.com/MoustafaMohamed01/web-summarizer-ai)
-An intelligent scraper and summarizer that extracts and condenses web content using LLaMA 3.2 and Gemini API.
-
 ### 🔹 [datacmp (PyPI)](https://pypi.org/project/datacmp/)
 A custom Python library for fast exploratory data analysis (EDA) and data cleaning workflows — published on PyPI.
 
